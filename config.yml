@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://alexdelli.github.io/podcasdelli"
 title: Podcasdelli
 paginate: 5
 theme: PaperModX
