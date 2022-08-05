@@ -123,6 +123,16 @@ menu:
           name: example.org
           url: https://example.org
           weight: 30
+          
+          
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+
 # Read: https://github.com/reorx/hugo-PaperModX/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
