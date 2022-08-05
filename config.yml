@@ -26,6 +26,7 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light
     disableThemeToggle: false
+    ShowFullTextinRSS: true
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
