@@ -26,7 +26,6 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: dark # dark, light
     disableThemeToggle: false
-
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
@@ -80,6 +79,8 @@ params:
           url: "https://stackoverflow.com"
         - name: github
           url: "https://github.com/"
+        - name: "rss"
+          url: "https://alexdelli.github.io/podcasdelli/index.xml"
 
     analytics:
         google:
